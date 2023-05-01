@@ -1,11 +1,11 @@
 # Applied Machine Learning Project Deliverable Report
 
 # Add details below
-Group Project (Group No) -
+Group Project (Group No) 18
 
 Team Members (Name, UNI at Columbia)
-- Member 1, UNI; 
-- Member 2, UNI;
-- Member 3, UNI;
-- Member 4, UNI;
-- Member 5, UNI;
+- Ji Qi(jq2365);
+- Yizhi Liu(yl4993);
+- Wen Song(ws2685);
+
+
